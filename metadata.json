@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 2D Platformer Game",
+  "description": "A simple 2D platformer game like Mario, built with TypeScript and Canvas.",
+  "requestFramePermissions": []
+}
